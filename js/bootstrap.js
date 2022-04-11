@@ -1149,6 +1149,21 @@
   const SELECTOR_ITEM = '.carousel-item';
   const SELECTOR_ITEM_IMG = '.carousel-item img';
   const SELECTOR_NEXT_PREV = '.carousel-item-next, .carousel-item-prev';
+
+
+
+  const SELECTOR_ACTIVE_ITEM2 = '.active.carousel-item2';
+  const SELECTOR_ITEM2 = '.carousel-item2';
+  const SELECTOR_ITEM_IMG2 = '.carousel-item2 img';
+  const SELECTOR_NEXT_PREV2 = '.carousel-item2-next, .carousel-item2-prev';
+
+
+
+
+
+
+
+
   const SELECTOR_INDICATORS = '.carousel-indicators';
   const SELECTOR_INDICATOR = '[data-bs-target]';
   const SELECTOR_DATA_SLIDE = '[data-bs-slide], [data-bs-slide-to]';
